@@ -1,5 +1,12 @@
 ### Hi there, I'm Walter Greenwich 👋
-
+ ```js
+const WGreenwichChaca = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node],
+ challenge: "I'm doing Henry's final bootcamp project""
+}
+```
 <!--
 **WGreenwichChaca/WGreenwichChaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
