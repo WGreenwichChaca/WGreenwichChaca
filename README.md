@@ -1,4 +1,6 @@
-### Hi there, I'm Walter Greenwich 👋
+### Hi there, I'm Walter Greenwich 👋 👨‍💻
+![banner WG](https://github.com/WGreenwichChaca/WGreenwichChaca/assets/125072942/a24163df-1bfa-4603-bedd-b36af3ff2523)
+
  ```js
 const WGreenwichChaca = {
   pronouns: "he" | "him",
