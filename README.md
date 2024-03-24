@@ -9,6 +9,10 @@ const WGreenwichChaca = {
  challenge: "I'm doing Henry's final bootcamp project""
 }
 ```
+You can find me 🌎:
+- [Linkedin](https://www.linkedin.com/in/walter-greenwich-link/)
+- [Twitter](https://twitter.com/GreenwichW)
+
 <!--
 **WGreenwichChaca/WGreenwichChaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
