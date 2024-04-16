@@ -14,7 +14,7 @@ const WGreenwichChaca = {
 
 - 🔭 I’m currently working on **events app**
 
-- 🌱 I’m currently learning **next.js and Google User Experience (UX)**
+- 🌱 I’m currently learning **Next.js and Google User Experience (UX) and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-waltergreenwich.netlify.app](https://portafolio-waltergreenwich.netlify.app)
 
