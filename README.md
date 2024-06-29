@@ -12,7 +12,7 @@ const WGreenwichChaca = {
 }
 ```
 
-- 🔭 I’m currently working on [next-promptopia-nextauth-mongodb](https://github.com/WGreenwichChaca/next-promptopia-nextauth-mongodb)
+- 🔭 I’m currently working on [next-promptopia-nextauth-mongodb](https://github.com/WGreenwichChaca/next-promptopia-nextauth-mongodb) and [nike-web-clone](https://github.com/WGreenwichChaca/nike-web-clone)
 
 - 🌱 I’m currently learning **Next.js and Google User Experience (UX) and Java**
 
