@@ -14,7 +14,7 @@ const WGreenwichChaca = {
 
 - 🔭 I’m currently working on [brainwave](https://github.com/WGreenwichChaca/brainwave)
 
-- 🌱 I’m currently learning **Next.js and Google User Experience (UX) and Java**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://portafolio-waltergreenwich.netlify.app](https://portafolio-waltergreenwich.netlify.app)
 
