@@ -18,7 +18,7 @@ const WGreenwichChaca = {
 
 - 👨‍💻 All of my projects are available at [https://portafolio-waltergreenwich.netlify.app](https://portafolio-waltergreenwich.netlify.app)
 
-- 📫 How to reach me **walter.greenwich@gmail.com**
+- 📫 How to reach me **waltgreenwich.devsec@gmail.com**
   
 - 📄 Know about my experiences [[https://drive.google.com/file/d/12IHGhjqLUKyz6pruS8AgTYnoGrQgZEKt/view?usp=sharing](https://drive.google.com/file/d/12IHGhjqLUKyz6pruS8AgTYnoGrQgZEKt/view?usp=sharing)]
 
