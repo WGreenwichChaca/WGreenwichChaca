@@ -20,7 +20,7 @@ const WGreenwichChaca = {
 
 - 📫 How to reach me **waltgreenwich.devsec@gmail.com**
   
-- 📄 Know about my experiences [[https://drive.google.com/file/d/12IHGhjqLUKyz6pruS8AgTYnoGrQgZEKt/view?usp=sharing](https://drive.google.com/file/d/12IHGhjqLUKyz6pruS8AgTYnoGrQgZEKt/view?usp=sharing)]
+- 📄 Know about my experiences [[Here]https://portafolio-waltergreenwich.netlify.app/assets/CV%20Walter%20Greenwich%20FullStack.pdf]
 
 - ⚡ Fun fact **When I was a kid, I could imitate the voice of Optimus Prime**
 
