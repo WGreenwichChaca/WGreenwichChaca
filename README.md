@@ -12,7 +12,7 @@ const WGreenwichChaca = {
 }
 ```
 
-- 🔭 I’m currently working on <a href="https://github.com/WGreenwichChaca/brainwave" target="_blank">brainwave</a>
+- 🔭 I’m currently working on <a target="_blank" href="https://github.com/WGreenwichChaca/brainwave">brainwave</a>
 
 - 🌱 I’m currently learning **German**
 
