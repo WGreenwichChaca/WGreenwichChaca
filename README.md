@@ -4,7 +4,7 @@
 ![banner WG](https://github.com/WGreenwichChaca/WGreenwichChaca/assets/125072942/a24163df-1bfa-4603-bedd-b36af3ff2523)
 
  ```js
-const WGreenwichChaca = {
+const WaltGreenwich = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [Next, React, Redux, Node],
@@ -12,8 +12,7 @@ const WGreenwichChaca = {
 }
 ```
 
-- 🔭 I’m currently working on <a target="_blank" href="https://github.com/WGreenwichChaca/brainwave">brainwave</a>
-
+- 🔭 I’m currently working on [brainwave](https://github.com/WGreenwichChaca/brainwave)
 - 🌱 I’m currently learning **German**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://portafolio-waltergreenwich.netlify.app)
