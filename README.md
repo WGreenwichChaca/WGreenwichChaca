@@ -48,7 +48,7 @@ const WGreenwichChaca = {
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wgreenwichchaca&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="wgreenwichchaca" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="waltgreenwich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></p>
 
