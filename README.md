@@ -8,7 +8,7 @@ const WaltGreenwich = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [Next, React, Redux, Node],
- challenge: "I'm working on personal projects while studying Java."
+ challenge: "I'm working on personal projects while studying German."
 }
 ```
 
