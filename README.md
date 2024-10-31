@@ -11,6 +11,7 @@ const WaltGreenwich = {
  challenge: "I'm working on personal projects while studying German."
 }
 ```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waltgreenwich&label=Profile%20views&color=0e75b6&style=flat" alt="waltgreenwich" /> </p>
 
 - 🔭 I’m currently working on [brainwave](https://github.com/WGreenwichChaca/brainwave)
