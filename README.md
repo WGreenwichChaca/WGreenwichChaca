@@ -57,4 +57,4 @@ const WaltGreenwich = {
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></p>
+<p><img style="height:100%;width:49%;max-width: 100%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></p>
