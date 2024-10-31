@@ -49,12 +49,6 @@ const WaltGreenwich = {
 <a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>       
 </p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="waltgreenwich" /></p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&theme=tokyonight&locale=en&layout=compact&width=500&height=300" alt="waltgreenwich" />
-</p>
-
 <div style="display:grid;align-items:center;justify-content:center">
-<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></div>
+ <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="waltgreenwich" />
+<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></div>
