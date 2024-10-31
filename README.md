@@ -3,6 +3,9 @@
 
 ![banner WG](https://github.com/WGreenwichChaca/WGreenwichChaca/assets/125072942/a24163df-1bfa-4603-bedd-b36af3ff2523)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waltgreenwich&label=Profile%20views&color=0e75b6&style=flat" alt="waltgreenwich" /> </p>
+
+
  ```js
 const WaltGreenwich = {
   pronouns: "he" | "him",
@@ -54,7 +57,6 @@ const WaltGreenwich = {
 <h1 align="center">Hi 👋, I'm Walter</h1>
 <h3 align="center">A passionate frontend developer from PERU</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waltgreenwich&label=Profile%20views&color=0e75b6&style=flat" alt="waltgreenwich" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltgreenwich" alt="waltgreenwich" /></a> </p>
 
