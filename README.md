@@ -56,5 +56,5 @@ const WaltGreenwich = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&theme=tokyonight&locale=en&layout=compact&width=500&height=300" alt="waltgreenwich" />
 </p>
 
-
-<p><img style="height:100%;width:49%;max-width: 100%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></p>
+<div style="display:grid;align-items:center;justify-content:center">
+<img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></div>
