@@ -51,3 +51,28 @@ const WaltGreenwich = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></p>
 
+<h1 align="center">Hi 👋, I'm Walter</h1>
+<h3 align="center">A passionate frontend developer from PERU</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waltgreenwich&label=Profile%20views&color=0e75b6&style=flat" alt="waltgreenwich" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waltgreenwich" alt="waltgreenwich" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/wgreenwich" target="blank"><img src="https://img.shields.io/twitter/follow/wgreenwich?logo=twitter&style=for-the-badge" alt="wgreenwich" /></a> </p>
+
+- 🔭 I’m currently working on [brainwave](https://waltgreenwich-brainwave.netlify.app/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/wgreenwich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wgreenwich" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&locale=en&layout=compact" alt="waltgreenwich" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltgreenwich&show_icons=true&locale=en" alt="waltgreenwich" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&" alt="waltgreenwich" /></p>
+
