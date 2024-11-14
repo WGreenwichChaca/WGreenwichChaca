@@ -1,5 +1,7 @@
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Walter Greenwich</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Full+Stack+Developer,;I+am+a+UX/UI+Designer,;Welcome+to+my+Github">
+</p>
 
 ![banner WG](https://github.com/WGreenwichChaca/WGreenwichChaca/assets/125072942/a24163df-1bfa-4603-bedd-b36af3ff2523)
 
