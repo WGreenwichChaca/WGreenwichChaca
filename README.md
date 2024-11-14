@@ -3,8 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Full+Stack+Developer,;I+am+a+UX/UI+Designer,;Welcome+to+my+Github">
 </p>
 
-![banner WG](https://github.com/WGreenwichChaca/WGreenwichChaca/assets/125072942/a24163df-1bfa-4603-bedd-b36af3ff2523)
+<!--   ![banner WG](https://github.com/WGreenwichChaca/WGreenwichChaca/assets/125072942/a24163df-1bfa-4603-bedd-b36af3ff2523)  --> 
 
+<p>Welcome to my GitHub! 👋 </p>
+
+<p>🚀 I’m a Front-end Developer with experience translating Figma designs into visually engaging and easy-to-navigate web interfaces.💻
+  
+🛠️ I specialize in building modern, intuitive websites that balance design and performance using HTML, CSS, JavaScript, React, and Next.js. 
+
+🎨 I implement responsive designs and reusable components, particularly leveraging Tailwind CSS to enhance user experience and optimize accessibility across multiple devices.💻 </p>
+  
  ```js
 const WaltGreenwich = {
   pronouns: "he" | "him",
