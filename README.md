@@ -43,41 +43,15 @@
 [![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424)](https://auth0.com/)&nbsp;
 [![Stripe](https://img.shields.io/badge/Stripe-05122A?style=flat&logo=Stripe&logoColor=white)](https://stripe.com/)&nbsp;
 
+## My Projects
+👨‍💻 All of my projects are available at [My Portfolio](https://portafolio-waltergreenwich.netlify.app)
 
-- 🔭 I’m currently working on [brainwave](https://github.com/WGreenwichChaca/brainwave)
-- 🌱 I’m currently learning **German**
-
-- 👨‍💻 All of my projects are available at [My portfolio](https://portafolio-waltergreenwich.netlify.app)
-
-- 📫 How to reach me **waltgreenwich.devsec@gmail.com**
-  
-- 📄 Know about my experiences [Here](https://portafolio-waltergreenwich.netlify.app/assets/CV%20Walter%20Greenwich%20FullStack.pdf)
-
-- ⚡ Fun fact **When I was a kid, I could imitate the voice of Optimus Prime**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/walter-greenwich-link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/walter-greenwich-link/" height="30" width="40" /></a>
- <a href="https://x.com/GreenwichW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="greenwichw" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 15px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp" alt="nextjs" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/768px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://images.credly.com/size/680x680/images/51aeb74b-ec87-4069-93fc-0ea449c8d77f/node.png" alt="nodejs" width="40" height="40" /></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://i0.wp.com/www.factfc.com/wp-content/uploads/2024/04/express-js.png?w=240&ssl=1" alt="express" width="40" height="40"/></a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>    
-<a href="https://postman.com" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>       
-</p>
+## Get in touch
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-greenwich-link/)](https://www.linkedin.com/in/walter-greenwich-link/)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white&link=mailto:mercedespoisson@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/1158335017)](https://wa.me/1158335017)
+![Yahoo Badge](https://img.shields.io/badge/-Yahoo-6E1A8D?style=flat&logo=yahoo&logoColor=white&link=mailto:mercedespoisson@yahoo.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=portfolio&logoColor=white&link=https://portfolio-blush-three-21.vercel.app/)](https://portfolio-blush-three-21.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waltgreenwich&label=Profile%20views&color=0e75b6&style=flat" alt="waltgreenwich" /> </p>
 <div style="display:grid;align-items:center;justify-content:center">
