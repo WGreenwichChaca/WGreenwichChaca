@@ -48,6 +48,7 @@
 
 ## Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-greenwich-link/)](https://www.linkedin.com/in/walter-greenwich-link/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white&link=mailto:mercedespoisson@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/1158335017)](https://wa.me/1158335017)
 ![Yahoo Badge](https://img.shields.io/badge/-Yahoo-6E1A8D?style=flat&logo=yahoo&logoColor=white&link=mailto:mercedespoisson@yahoo.com)
