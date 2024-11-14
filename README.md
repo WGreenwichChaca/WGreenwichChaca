@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Walter Greenwich</h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Walter Greenwich</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
 ![banner WG](https://github.com/WGreenwichChaca/WGreenwichChaca/assets/125072942/a24163df-1bfa-4603-bedd-b36af3ff2523)
