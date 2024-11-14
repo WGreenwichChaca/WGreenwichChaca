@@ -49,12 +49,9 @@
 ## Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-greenwich-link/)](https://www.linkedin.com/in/walter-greenwich-link/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white&link=mailto:mercedespoisson@gmail.com)
-[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/1158335017)](https://wa.me/1158335017)
-![Yahoo Badge](https://img.shields.io/badge/-Yahoo-6E1A8D?style=flat&logo=yahoo&logoColor=white&link=mailto:mercedespoisson@yahoo.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=portfolio&logoColor=white&link=https://portfolio-blush-three-21.vercel.app/)](https://portfolio-blush-three-21.vercel.app/)
+[![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waltgreenwich&label=Profile%20views&color=0e75b6&style=flat" alt="waltgreenwich" /> </p>
 <div style="display:grid;align-items:center;justify-content:center">
- <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="waltgreenwich" />
+ <img style="height:100%;width:41%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="waltgreenwich" />
 <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></div>
