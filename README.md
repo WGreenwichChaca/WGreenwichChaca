@@ -1,4 +1,7 @@
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Walter Greenwich</h1>
+<a href="https://portafolio-waltergreenwich.netlify.app"><img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/Fondo%20WG.png" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
+### Full Stack Developer | Cybersecirity Script Kiddie
+
+<p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Walter Greenwich</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Full+Stack+Developer,;I+am+a+UX/UI+Designer,;Welcome+to+my+Github">
 </p>
