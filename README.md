@@ -1,14 +1,8 @@
 <a href="https://portafolio-waltergreenwich.netlify.app"><img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/Fondo%20WG.png" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
 ### Full Stack Developer |  Front-End Specialist
 
-<p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Walter Greenwich</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Full+Stack+Developer,;I+am+a+UX/UI+Designer,;Welcome+to+my+Github">
-</p>
-
-<!--   ![banner WG](https://github.com/WGreenwichChaca/WGreenwichChaca/assets/125072942/a24163df-1bfa-4603-bedd-b36af3ff2523)  --> 
-
-<p>Welcome to my GitHub! 👋 </p>
+<p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Walter Greenwich</p> 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%DD4B39&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Full+Stack+Developer,;I+am+a+UX/UI+Designer,;Welcome+to+my+Github"></p>
 
 <img align="left" style="margin-right:20px;margin-top:20px;" alt="waltgreenwich's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 
