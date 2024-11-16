@@ -1,5 +1,5 @@
 <a href="https://portafolio-waltergreenwich.netlify.app"><img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/Fondo%20WG.png" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
-### Full Stack Developer | Cybersecirity Script Kiddie
+### Full Stack Developer |  Front-End Specialist
 
 <p align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Walter Greenwich</p>
 <p align="center">
