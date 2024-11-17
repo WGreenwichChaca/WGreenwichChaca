@@ -10,22 +10,15 @@
 </br>
 </br>
 </br>
-</br>
-</br>
-</br>
-<img align="left" style="margin-right:20px;margin-top:20px;" alt="waltgreenwich's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 
-</br>
+<img align="left" style="margin-right:20px;margin-top:20px;" alt="waltgreenwich's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 <p>🚀 I’m a Front-end Developer skilled in turning Figma designs into modern, responsive, and user-friendly web interfaces. 💻
 
 🛠️ I specialize in creating intuitive websites with HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS, ensuring optimal performance and accessibility.
 
 🎨 My approach blends aesthetics, functionality, and high performance to deliver exceptional digital experiences across devices. 📱</p>
 
-
 </br>
-
-
   
  ## Tech-Skills
 ### Programming Languages
@@ -56,15 +49,3 @@
 ### Third Party Integration
 [![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424)](https://auth0.com/)&nbsp;
 [![Stripe](https://img.shields.io/badge/Stripe-05122A?style=flat&logo=Stripe&logoColor=white)](https://stripe.com/)&nbsp;
-
-## My Projects
-👨‍💻 All of my projects are available at [My Portfolio](https://portafolio-waltergreenwich.netlify.app)
-
-## Get in touch
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com)
-[![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich)
-
-<!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=waltgreenwich&label=Profile%20views&color=0e75b6&style=flat" alt="waltgreenwich" /> </p>
-<div style="display:grid;align-items:center;justify-content:center">
- <img style="height:100%;width:41%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltgreenwich&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="waltgreenwich" />
-<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=waltgreenwich&theme=dark" alt="waltgreenwich" /></div>  -->
