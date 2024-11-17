@@ -18,7 +18,6 @@
 
 🎨 My approach blends aesthetics, functionality, and high performance to deliver exceptional digital experiences across devices. 📱</p>
 
-</br>
   
  ## Tech-Skills
 ### Programming Languages
