@@ -1,16 +1,26 @@
 <a href="https://portafolio-waltergreenwich.netlify.app"><img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/Fondo%20WG.png" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
 ### Full Stack Developer |  Front-End Specialist
 
-<p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Walter Greenwich</p> 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%DD4B39&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Full+Stack+Developer,;I+am+a+UX/UI+Designer,;Welcome+to+my+Github"></p>
+<p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Walter Greenwich</p>
 
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-waltergreenwich.netlify.app)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-greenwich-link/)](https://www.linkedin.com/in/walter-greenwich-link/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com) [![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich) [![X](https://img.shields.io/badge/-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/GreenwichW
+)
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 <img align="left" style="margin-right:20px;margin-top:20px;" alt="waltgreenwich's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
 
-<p>🚀 I’m a Front-end Developer with experience translating Figma designs into visually engaging and easy-to-navigate web interfaces.💻
-  
-🛠️ I specialize in building modern, intuitive websites that balance design and performance using HTML, CSS, JavaScript, React, and Next.js. 
+</br>
+<p>🚀 I’m a Front-end Developer skilled in turning Figma designs into modern, responsive, and user-friendly web interfaces. 💻
 
-🎨 I implement responsive designs and reusable components, particularly leveraging Tailwind CSS to enhance user experience and optimize accessibility across multiple devices.📱 I take a comprehensive approach to web design and development, focusing on the end user to create digital experiences that blend aesthetics, functionality, and high performance 🚀</p>
+🛠️ I specialize in creating intuitive websites with HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS, ensuring optimal performance and accessibility.
+
+🎨 My approach blends aesthetics, functionality, and high performance to deliver exceptional digital experiences across devices. 📱</p>
 
 
 </br>
@@ -51,7 +61,6 @@
 👨‍💻 All of my projects are available at [My Portfolio](https://portafolio-waltergreenwich.netlify.app)
 
 ## Get in touch
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-greenwich-link/)](https://www.linkedin.com/in/walter-greenwich-link/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com)
 [![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich)
 
