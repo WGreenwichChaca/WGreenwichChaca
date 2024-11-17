@@ -1,14 +1,15 @@
 <a href="https://portafolio-waltergreenwich.netlify.app"><img align="left" src="https://github.com/WaltGreenwich/WaltGreenwich/blob/main/Fondo%20WG.png" alt="Portfolio Web"  style="margin-right:20px; margin-bottom:20px;" width="400px"/></a>
 ### Full Stack Developer |  Front-End Specialist
 
-<p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Walter Greenwich</p>
+<p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Walter Greenwich</p> 
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-waltergreenwich.netlify.app)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-waltergreenwich.netlify.app) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walter-greenwich-link/)](https://www.linkedin.com/in/walter-greenwich-link/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com) [![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich) [![X](https://img.shields.io/badge/-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/GreenwichW
-)
-</br>
-</br>
+<img src="https://komarev.com/ghpvc/?username=waltgreenwich&color=blue"/>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waltgreenwich/)](https://www.linkedin.com/in/walter-greenwich-link/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white)](mailto:waltgreenwich.devsec@gmail.com) [![Calendly Badge](https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white)](https://calendly.com/walter-greenwich) [![X](https://img.shields.io/badge/-%23000000.svg?style=flat&logo=X&logoColor=white)](https://x.com/GreenwichW
+) 
+
 </br>
 
 <img align="left" style="margin-right:20px;margin-top:20px;" alt="waltgreenwich's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltgreenwich&layout=compact&hide=jupyter%20notebook&theme=dark&hide_border=true" />
