@@ -3,7 +3,7 @@
 
 <p align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Walter Greenwich</p> 
 
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portafolio-waltergreenwich.netlify.app) 
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://waltgreenwich-com.vercel.app/) 
 
 <img src="https://komarev.com/ghpvc/?username=waltgreenwich&color=blue"/>
 
